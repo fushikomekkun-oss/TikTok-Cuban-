@@ -1,0 +1,4 @@
+
+git add.
+git commit -m "Inicial: estructura base Flask + monetización real"
+git push origin main
